@@ -1,6 +1,6 @@
 # Antigravity Open-Source Maintainer (`antigravity-open-source-maintainer`)
 
-Autonomous execution protocol and auto-approval boundaries for **Google Antigravity**, tailored specifically for open-source maintainers and developers.
+Autonomous execution protocol and auto-approval boundaries for the **Google Antigravity desktop client on Windows**, tailored specifically for open-source maintainers and developers.
 
 ---
 
